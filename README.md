@@ -12,4 +12,4 @@
 График предсказаний и реальных отказов
 ![pred](https://github.com/IsMarshev/Case-RZD-Battle-of-Titans/blob/main/src/%D0%B8%D1%82%D0%BE%D0%B3.jpg)
 4. Создание рекомендательной системы
-![rks](https://github.com/IsMarshev/Case-RZD-Battle-of-Titans/blob/main/src/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B.mp4)
+![rks](https://github.com/IsMarshev/Case-RZD-Battle-of-Titans/assets/114869741/e887f2dc-b8f4-43d5-8c54-9e8b98f3f177)
